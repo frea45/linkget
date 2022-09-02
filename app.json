@@ -18,7 +18,7 @@
     "channel_files_chat_id": {
       "description": " Telegram channel chat ID for storing and managing files",
       "required": "true",
-      "value": "-1001504782123"
+      "value": "-1001787336960"
     },
     "channel_username": {
       "description": "Telegram channel username for support",
@@ -28,7 +28,7 @@
     "token": {
       "description": "Telegram robot token for launch .",
       "required": "true",
-      "value": "5405937121:AAEP4ik7fnTMjy76OZS764YAzeXeAGdUqm0"
+      "value": "1943275919:AAFwSScrlR_i-AzdNTOiw8EEctbU_exOaGg"
     },
     "domain": {
       "description": "Heroku application domain Example: https://newdlstar.herokuapp.com",
