@@ -23,7 +23,7 @@
     "channel_username": {
       "description": "Telegram channel username for support",
       "required": "true",
-      "value": "irbotz"
+      "value": "ir_botz"
     },
     "token": {
       "description": "Telegram robot token for launch .",
